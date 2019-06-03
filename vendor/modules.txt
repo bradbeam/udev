@@ -1,0 +1,11 @@
+# github.com/mdlayher/kobject v0.0.0-20190419142510-b96c97ecd94c => /Users/bradbeam/go/src/github.com/mdlayher/kobject
+github.com/mdlayher/kobject
+# github.com/mdlayher/netlink v0.0.0-20190419142405-71c9566a34ae
+github.com/mdlayher/netlink
+github.com/mdlayher/netlink/nlenc
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c
+golang.org/x/net/bpf
+# golang.org/x/sys v0.0.0-20190508220229-2d0786266e9c
+golang.org/x/sys/unix
